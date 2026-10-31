@@ -19,7 +19,7 @@ public class LinearSearch {
 /**
  *
  * Time Complexity O(N)
- * Intiution : take each element from array then compare it and check if it is equals to the
+ * Intuition : take each element from array then compare it and check if it is equals to the
  *             target element if yes we found the element if not its not present.
  *
  **/
