@@ -2,7 +2,7 @@ package Search.BinarySearch;
 
 public class Ceiling {
     static void main() {
-        int arr[] = {12,4,7,9,10,18,20};
+        int arr[] = {1,4,7,9,10,18,20};
         System.out.println(SearcCeiling(arr,11));
     }
     static int SearcCeiling(int[] arr,int target){
