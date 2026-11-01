@@ -1,4 +1,4 @@
-package Search;
+package Search.BinarySearch;
 
 // Order agnostic binary search means binary search but it works is asc as well as desc both the orders
 

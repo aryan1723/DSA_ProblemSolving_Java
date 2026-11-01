@@ -1,4 +1,4 @@
-package Search;
+package Search.LinearSearch;
 
 public class FindMinimum {
     static void main() {
