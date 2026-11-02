@@ -1,5 +1,6 @@
-package Search.BinarySearch;
+//https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 
+package Search.BinarySearch;
 import java.util.Arrays;
 
 public class FirstAndLastPosition {
