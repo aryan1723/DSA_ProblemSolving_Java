@@ -17,6 +17,6 @@ public class PeakElement {
                 start=mid+1;
             }
         }
-        return arr[start];
+        return arr[end];
     }
 }
